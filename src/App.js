@@ -35,7 +35,7 @@ function App() {
             scrub: true,
             start: "top center",
             end: "bottom 30%",
-            markers: true,
+            // markers: true,
             toggleActions: "play restart ",
           },
         }
